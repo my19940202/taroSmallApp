@@ -1,0 +1,4 @@
+<block s-if="{{$taroCompReady}}">
+    <view class="index"><text>测试标题呀</text>
+    </view>
+</block>
